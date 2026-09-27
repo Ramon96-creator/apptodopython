@@ -1,5 +1,4 @@
-read
-update
-clean
+nuevo proyectoclean
 study
-clean the code
+nueva tarea
+nueva tarea2
